@@ -5,4 +5,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonalinux&show_icons=true&theme=transparent) 
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonalinux&theme=white-black&layout=donut&langs_count=10)](https://github.com/felipealfonsog/)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonalinux&theme=white-black&layout=donut&langs_count=10)](https://github.com/jonalinux/)
