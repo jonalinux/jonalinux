@@ -3,6 +3,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=architalia&repo=clean)](https://github.com/ArchItalia/clean) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=architalia&repo=installscript)](https://github.com/ArchItalia/installscript)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonalinux&show_icons=true&theme=transparent) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonalinux&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered) 
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonalinux&theme=white-black&layout=donut&langs_count=10)](https://github.com/jonalinux/)
