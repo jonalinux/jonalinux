@@ -6,4 +6,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonalinux&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonalinux&theme=white-black&layout=donut&langs_count=10)](https://github.com/jonalinux/)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonalinux&theme=white-black&layout=donut&hide_progress=true)](https://github.com/jonalinux/)
